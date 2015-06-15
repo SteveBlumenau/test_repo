@@ -1,0 +1,19 @@
+{
+    "Dataset1": {
+        "User Access": {
+            "Copy Data System": "172.17.137.60",
+            "Copy Data Creation Time": "21-Jan-2015 21:45:21",
+            "Access Protocol": "Fibre Channel",
+            "Access Method": "Block",
+            "Copy Data Address": "Image_2379482"
+        },
+        "Transformation": {},
+        "Access Control": {
+            "Expiration": "21-Jan-2016"
+        },
+        "Source Data": {
+            "Description": "This is the description"
+        }
+    },
+    "Checksum": "59d918c158caa875da6791e4e0f0a28e"
+}
